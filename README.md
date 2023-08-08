@@ -17,6 +17,7 @@ Este é um projeto de exemplo que demonstra como executar um arquivo JavaScript 
 
 5. Execute o arquivo `api2.mjs` com a flag `--experimental-modules` usando o seguinte comando:
 
+node --experimental-modules api2.mjs
 
 6. Verifique o resultado da execução no console.
 
